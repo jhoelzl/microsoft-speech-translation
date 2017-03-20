@@ -7,5 +7,5 @@
 * Install `mpg123` to play MP3 on Ubuntu
 
 ## Usage
-* Adjust value for `translate_from` and `translate_to`
-* Run `python speech_stram.py` and speak
+* Adjust value for `translate_from` (standard: `en`) and `translate_to` (standard: `de`)
+* Run `python speech_stream.py` and speak to you microphone
